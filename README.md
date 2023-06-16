@@ -1,1 +1,1 @@
-# GSExtension
+# GSExtensions
